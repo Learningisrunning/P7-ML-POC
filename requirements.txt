@@ -5,7 +5,7 @@ plotly
 xgboost
 
 # PyTorch CPU uniquement pour éviter d'installer CUDA
-torch==2.6.0+cpu
+torch==2.6.0
 torchmetrics
 pytorch-forecasting
 pytorch-lightning
