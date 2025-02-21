@@ -1,0 +1,6 @@
+*.pt
+*.csv
+*.pkl
+venv/
+__pycache__/
+*.log
